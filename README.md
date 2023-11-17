@@ -11,14 +11,6 @@
 
 ----
 
-<br><br>
-
-<p align="center">
-  <a href="https://tokeny.com/erc3643-whitepaper/">
-  <img src="./docs/img/T-REX.png" width="150" title="t-rex">
-  </a>
-</p>
-
 
 ## Overview
 
